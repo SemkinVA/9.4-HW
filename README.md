@@ -16,6 +16,8 @@
 
 **Ответ:**
 
+![1-2](https://github.com/SemkinVA/9.4-HW/blob/main/1-2.png)
+
 ![1-1](https://github.com/SemkinVA/9.4-HW/blob/main/1-1.png)
 
 ***
@@ -34,6 +36,7 @@
 **Ответ:**
 
 ![2-1](https://github.com/SemkinVA/9.4-HW/blob/main/2-1.png)
+![2-2](https://github.com/SemkinVA/9.4-HW/blob/main/2-2.png)
 
 ***
 ### Задание 3
